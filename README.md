@@ -81,7 +81,7 @@ The script will:
 * Save the final table to `fox_results_table.json`
 
 
-## 📊 4. Metrics
+## 4. Metrics
 
 ### **Compression per Page**
 
@@ -161,7 +161,7 @@ Example entry:
 
 ---
 
-## 🏁 8. Summary
+## 8. Summary
 
 This pipeline reproduces the Fox Benchmark evaluation from the DeepSeek-OCR paper:
 
